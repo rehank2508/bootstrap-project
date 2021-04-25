@@ -1,0 +1,10 @@
+
+@mixin set-color($bgcolor, $color) {
+	background-color: $bgcolor;
+	color: $color;
+}
+
+@mixin set-font{
+	font-family: $font-family;
+	padding : 5px 5px;
+}

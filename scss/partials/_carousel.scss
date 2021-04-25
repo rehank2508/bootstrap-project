@@ -1,0 +1,15 @@
+.carousel {
+	height: 300px;
+	margin-bottom:20px;
+	.carousel-item{
+		height:300px;
+
+		img{
+			width: 100%;
+		    position: absolute;
+    		top: 0;
+    		left: 0;
+    		max-height: 300px;				
+		}
+	} 
+}
